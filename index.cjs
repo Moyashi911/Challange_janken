@@ -44,4 +44,3 @@ function playGame(playerChoice) {
 rockBtn.addEventListener('click', () => playGame('グー'));
 paperBtn.addEventListener('click', () => playGame('パー'));
 scissorsBtn.addEventListener('click', () => playGame('チョキ'));
-
